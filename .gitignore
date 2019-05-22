@@ -1,0 +1,25 @@
+Client/SimpleGame/x64/
+IOCPServer/.vs/
+IOCPServer/SimpleGame/x64/
+RIO Server/.vs/
+RIO Server/SimpleGame/x64/
+RIO Server/x64/
+RIO Server-MO/.vs/
+RIO Server-MO/SimpleGame/x64/
+RIO Server-MO/x64/
+StressTest/.vs/
+StressTest/StressTest/Debug/
+StressTest/StressTest/Release/
+StressTest/StressTest/x64/
+TestClient/.vs/
+TestClient/TestClient/x64/
+TestClient/x64/
+StressTest/Release/
+StressTest/Debug/
+IOCPServer/x64/
+Client/x64/
+Client/Debug/
+Client/Release/
+Client/.vs/
+*.dmp
+Client/SimpleGame/Dependencies/x64/
